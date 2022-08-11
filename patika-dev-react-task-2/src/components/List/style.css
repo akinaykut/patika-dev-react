@@ -1,0 +1,20 @@
+.completed {
+  text-decoration: line-through;
+}
+
+.list-item {
+  display: flex;
+
+  list-style-type: none;
+}
+
+.list-item input {
+  margin: 0 15px;
+}
+
+.list-style {
+  width: 20%;
+  margin: 1% auto;
+  display: flex;
+  justify-content: space-between;
+}
