@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Patikadev Task-2
+
+![Task-2](./images/todos-app.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
