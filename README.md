@@ -6,6 +6,10 @@ My solutions of patikadev-react-course.
 
 ![Task-2](./images/todos-app.PNG)
 
+![emoji-test](./images/emoji-test.png)
+
+![weather-App](./images/weather-app.PNG)
+
 [Patika.dev](https://patika.dev)
 
 const newUrl =
